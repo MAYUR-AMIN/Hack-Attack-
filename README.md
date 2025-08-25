@@ -18,3 +18,4 @@ TECH DIAGRAM
 https://github.com/MAYUR-AMIN/Hack-Attack-/blob/main/TECH%20DIAGRAM.png?raw=true
 
 AZURE SOLUTION 
+https://github.com/MAYUR-AMIN/Hack-Attack-/blob/main/AZURE%20IN%20SOLUTION.png?raw=true
