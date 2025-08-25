@@ -13,3 +13,8 @@ There is a pressing need for an affordable, accessible solution—one that lever
 
 Expected Solutions:
 • An affordable, AI-powered screening system built on Microsoft Azure. Using Azure Cognitive Services and Machine Learning, we can analyze simple leg images to flag early signs, bringing preventive care to everyday users and easing pressure on healthcare systems.
+
+TECH DIAGRAM
+https://github.com/MAYUR-AMIN/Hack-Attack-/blob/main/TECH%20DIAGRAM.png?raw=true
+
+AZURE SOLUTION 
